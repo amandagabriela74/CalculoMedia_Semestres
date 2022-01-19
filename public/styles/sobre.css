@@ -1,0 +1,49 @@
+body{
+   line-height: 1.0;
+    color: white;
+}
+
+main {
+    background: #000000e6;
+    padding: 5px 40px;
+    margin-top: 20px;
+    margin-right: 25%;
+    margin-left: 25%;
+    border-radius: 10px;
+}
+
+.conteudo {
+    margin: auto;
+    width: 100%;
+    height: 100%;  
+    text-align:justific;
+    font-size: 18px
+}
+
+.conteudo h1 {
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-family: Verdana, arial, helvetica;
+}
+
+.conteudo h2 {
+    font-size: 17px;
+    font-family: Verdana, arial, helvetica;
+}
+
+.conteudo h3 {
+    font-size: 17px;
+    text-align: left;
+}
+
+.conteudo p {
+    text-align: justify;
+    font-size: 15px;
+    padding-left: 28px;
+}
+
+input {
+    border: black solid;
+}
